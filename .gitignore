@@ -1,0 +1,6 @@
+# Ignore MySQL Docker Data
+mysql/
+
+
+# Ignore MacOS
+.DS_Store
